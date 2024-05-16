@@ -1,6 +1,6 @@
 // content/content.js
 // List of keywords to block
-const blockedKeywords = ["sex", "murder", "murdered", "adult"];
+const blockedKeywords = ["sex", "murder", "murdered", "adult","illegal"];
 
 // Function to check if page content contains blocked keywords
 function containsBlockedKeyword() {
