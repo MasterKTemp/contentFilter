@@ -15,6 +15,7 @@ function containsBlockedKeyword() {
     return keywordFound;
   });
 }
+//hello
 
 // Function to apply CSS to hide blocked content
 function hideBlockedContent() {
